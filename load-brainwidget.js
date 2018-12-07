@@ -10,15 +10,15 @@ s3.src="http://localhost/brainwidget/PLYLoader.js";
 s4.src="http://localhost/brainwidget/TrackballControls.js";
 s5.src="http://localhost/brainwidget/myMesh.js";
 */
-s1.src="https://rawgit.com/r03ert0/brainwidget/master/three.min.js";
+s1.src="https://cdn.jsdelivr.net/gh/r03ert0/brainwidget/three.min.js";
 s1.setAttribute('type', 'text/javascript');
-s2.src="https://rawgit.com/r03ert0/brainwidget/master/Detector.js";
+s2.src="https://cdn.jsdelivr.net/gh/r03ert0/brainwidget/Detector.js";
 s2.setAttribute('type', 'text/javascript');
-s3.src="https://rawgit.com/r03ert0/brainwidget/master/PLYLoader.js";
+s3.src="https://cdn.jsdelivr.net/gh/r03ert0/brainwidget/PLYLoader.js";
 s3.setAttribute('type', 'text/javascript');
-s4.src="https://rawgit.com/r03ert0/brainwidget/master/TrackballControls.js";
+s4.src="https://cdn.jsdelivr.net/gh/r03ert0/brainwidget/TrackballControls.js";
 s4.setAttribute('type', 'text/javascript');
-s5.src="https://rawgit.com/r03ert0/brainwidget/master/myMesh.js";
+s5.src="https://cdn.jsdelivr.net/gh/r03ert0/brainwidget/myMesh.js";
 s4.setAttribute('type', 'text/javascript');
 s1.onload=function () {
 s2.onload=function () {
